@@ -2560,18 +2560,14 @@ input, select, textarea {
 				}
 
 /* Image */
-
-	lizPic {
-	width: 100% !important;
-	height: 100% !important;
+	#lizPic {
+	width: 424px;
+	height: 425px;
 	}
 
 	.image {
-	width: 75px;
-	height: 75px;
-	}
-	
-	.image {
+		width: 75px;
+		height: 75px;
 		border-radius: 0.25em;
 		border: 0;
 		display: inline-block;
