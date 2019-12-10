@@ -6,8 +6,11 @@
 
 - Google fonts
 - Sass
-- 
+- Fontawesome
+- Breakpoints.js
+- JQuery
+- Scrollex.js
+- Scrolly.js
 
-
-Credits
+## Credits
 This homepage was built by lizharris90210, with support from Stack Overflow.
