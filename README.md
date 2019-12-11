@@ -13,4 +13,5 @@
 - Scrolly.js
 
 ## Credits
+
 This homepage was built by lizharris90210, with support from Stack Overflow.
